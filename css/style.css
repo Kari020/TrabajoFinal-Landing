@@ -97,10 +97,26 @@ h4{
     align-items: center;
     margin: auto;
 }
+
+.opcioncursos .caja{
+    vertical-align: text-bottom;
+    width: 300px;
+    height: 500px;
+    display: inline-block;
+    background-color: rgb(6, 98, 141);
+    border: 5px rgb(57, 173, 219) solid; 
+    border-top-right-radius: 70px;
+    margin: 50px 30px;
+    padding: 50px 30px;
+    align-items: center;
+    
+}
+
 .opcioncursos h2{
-    margin-left: 40%;
+    margin-left: 30%;
     font-size: 42px;
 }
+
 footer {
     background-color: rgb(13, 117, 165);
     padding: 1vh 5vw;
